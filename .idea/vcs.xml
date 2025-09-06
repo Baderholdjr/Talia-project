@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apprentice_ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gamification_acolyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grc_acolyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inquisitor_package" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/noc_acolyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/soc_acolyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/talia_deployment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/talia_master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_inquisitor" vcs="Git" />
+  </component>
+</project>
